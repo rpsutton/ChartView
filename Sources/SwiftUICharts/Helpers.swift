@@ -83,7 +83,7 @@ public struct Styles {
     
     public static let barChartStyleNeonBlueLight = ChartStyle(
         backgroundColor: Color.white,
-        accentColor: Colors.GradientNeonBlue,
+        accentColor: Color.blue,
         secondGradientColor: Colors.GradientPurple,
         textColor: Color.black,
         legendTextColor: Color.gray,
@@ -91,7 +91,7 @@ public struct Styles {
     
     public static let barChartStyleNeonBlueDark = ChartStyle(
         backgroundColor: Color.black,
-        accentColor: Colors.GradientNeonBlue,
+        accentColor: Color.blue,
         secondGradientColor: Colors.GradientPurple,
         textColor: Color.white,
         legendTextColor: Color.gray,
